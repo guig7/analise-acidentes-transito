@@ -23,5 +23,5 @@ O principal objetivo deste projeto é realizar uma análise detalhada dos dados 
 
 Clique no link abaixo para abrir o notebook diretamente no Google Colab:
 
-[Abra no Colab](https://colab.research.google.com/github/guig7/analise-acidentes/blob/main/analise_acidentes.ipynb)
+[Abra no Colab](https://colab.research.google.com/github/guig7/analise-acidentes-transito/blob/main/init.ipynb)
 
