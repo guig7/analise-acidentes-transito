@@ -21,19 +21,4 @@ O principal objetivo deste projeto é realizar uma análise detalhada dos dados 
 - **Insights Geográficos**: Análise geográfica dos acidentes de trânsito, destacando as regiões com maior número de ocorrências.
 - **Sugestões para Prevenção**: Com base nos dados analisados, sugerir áreas e ações focadas na prevenção de acidentes.
 
-## Estrutura do Projeto
 
-Este repositório contém os seguintes arquivos e pastas:
-
-- **`notebooks/`**: Jupyter Notebooks com os códigos e análises realizadas.
-- **`dados/`**: Arquivos de dados utilizados na análise.
-- **`resultados/`**: Visualizações geradas durante a análise.
-- **`requirements.txt`**: Lista de dependências para executar o projeto.
-
-## Como Executar
-
-Para rodar este projeto, siga os seguintes passos:
-
-1. **Clone este repositório**:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/analise-acidentes-transito.git
