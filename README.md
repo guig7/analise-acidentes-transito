@@ -21,4 +21,7 @@ O principal objetivo deste projeto é realizar uma análise detalhada dos dados 
 - **Insights Geográficos**: Análise geográfica dos acidentes de trânsito, destacando as regiões com maior número de ocorrências.
 - **Sugestões para Prevenção**: Com base nos dados analisados, sugerir áreas e ações focadas na prevenção de acidentes.
 
+Clique no link abaixo para abrir o notebook diretamente no Google Colab:
+
+[Abra no Colab](https://colab.research.google.com/github/guig7/analise-acidentes/blob/main/analise_acidentes.ipynb)
 
